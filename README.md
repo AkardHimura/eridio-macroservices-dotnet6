@@ -1,0 +1,1 @@
+# eridio-macroservices-dotnet6
